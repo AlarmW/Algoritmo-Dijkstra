@@ -1,0 +1,6 @@
+# Dependencias de terceros del visualizador de Dijkstra.
+# Tkinter viene con Python (en Linux puede requerir: sudo apt install python3-tk).
+# Rangos basados en las versiones con las que se ejecutó la lógica del proyecto:
+#   networkx 3.6.1 / matplotlib 3.10.8 / Python 3.12.3
+networkx>=3.6,<4
+matplotlib>=3.10,<4
